@@ -10,10 +10,8 @@
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
-					<key>sha256</key>
-					<string>d0ed4983da55b2eafba3e949b9a2a5f6daa39809a20d2776ffa44b1434f3ffbf</string>
 					<key>url</key>
-					<string>https://github.com/gjxxmy/ios_sdk_demo/releases/download/demo-2026-10-14/DemoApp.ipa</string>
+					<string>https://github.com/gjxxmy/ios_sdk_demo/releases/latest/download/DemoApp.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
