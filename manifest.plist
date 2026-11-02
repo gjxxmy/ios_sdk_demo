@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/gjxxmy/ios_sdk_demo/releases/latest/download/DemoApp.ipa</string>
+					<string>https://github.com/gjxxmy/ios_sdk_demo/releases/download/demo-2026-11-02-2/DemoApp.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.funjo.block.puzzle.arrow.escape.ios</string>
+				<string>com.funjo.game.colorblockout.ios</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>FunSmithSDK Demo</string>
+				<string>FFSDKDome</string>
 			</dict>
 		</dict>
 	</array>
