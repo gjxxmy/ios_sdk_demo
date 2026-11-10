@@ -1,5 +1,5 @@
 {
-  "block-puzzle/1.0.68/build-1": {
+  "block-puzzle/1.0/build-1": {
     "asset_url": "https://github.com/gjxxmy/ios_sdk_demo/releases/download/demo-2026-11-02/DemoApp.ipa",
     "build": "1",
     "bundle_id": "com.funjo.block.puzzle.arrow.escape.ios",
@@ -10,7 +10,7 @@
     "title": "FFSDKDome",
     "version": "1.0"
   },
-  "block-puzzle/1.0.74/build-2": {
+  "block-puzzle/1.0/build-2": {
     "asset_url": "https://github.com/gjxxmy/ios_sdk_demo/releases/download/block-puzzle-1.0.74-build-2/DemoApp.ipa",
     "build": "2",
     "bundle_id": "com.funjo.block.puzzle.arrow.escape.ios",
@@ -21,7 +21,7 @@
     "title": "FFSDKDome",
     "version": "1.0"
   },
-  "color-block-out/1.0.71/build-1": {
+  "color-block-out/1.0/build-1": {
     "asset_url": "https://github.com/gjxxmy/ios_sdk_demo/releases/download/demo-2026-11-03/DemoApp.ipa",
     "build": "1",
     "bundle_id": "com.funjo.game.colorblockout.ios",
