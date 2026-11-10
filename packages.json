@@ -1,0 +1,35 @@
+{
+  "block-puzzle/1.0.68/build-1": {
+    "asset_url": "https://github.com/gjxxmy/ios_sdk_demo/releases/download/demo-2026-11-02/DemoApp.ipa",
+    "build": "1",
+    "bundle_id": "com.funjo.block.puzzle.arrow.escape.ios",
+    "devices": 12,
+    "sdk_version": "1.0.68",
+    "sha256": "9846189dea8ad8d53091a0051a1a225b92d80a56432f126b58d624fb64572a0f",
+    "tag": "demo-2026-11-02",
+    "title": "FFSDKDome",
+    "version": "1.0"
+  },
+  "block-puzzle/1.0.74/build-2": {
+    "asset_url": "https://github.com/gjxxmy/ios_sdk_demo/releases/download/block-puzzle-1.0.74-build-2/DemoApp.ipa",
+    "build": "2",
+    "bundle_id": "com.funjo.block.puzzle.arrow.escape.ios",
+    "devices": 12,
+    "sdk_version": "1.0.74",
+    "sha256": "11120c89f0407d48767acd50a001156de9a002a206fda68614c7768ec2474e64",
+    "tag": "block-puzzle-1.0.74-build-2",
+    "title": "FFSDKDome",
+    "version": "1.0"
+  },
+  "color-block-out/1.0.71/build-1": {
+    "asset_url": "https://github.com/gjxxmy/ios_sdk_demo/releases/download/demo-2026-11-03/DemoApp.ipa",
+    "build": "1",
+    "bundle_id": "com.funjo.game.colorblockout.ios",
+    "devices": 12,
+    "sdk_version": "1.0.71",
+    "sha256": "1b7a121b3523cb5afe4a09ec414ab49133f296b7bd48b376f18f8e340d4dbb87",
+    "tag": "demo-2026-11-03",
+    "title": "FFSDKDome",
+    "version": "1.0"
+  }
+}
