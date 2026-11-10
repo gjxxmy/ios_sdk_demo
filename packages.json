@@ -10,17 +10,6 @@
     "title": "FFSDKDome",
     "version": "1.0"
   },
-  "block-puzzle/1.0/build-3": {
-    "asset_url": "https://github.com/gjxxmy/ios_sdk_demo/releases/download/block-puzzle-1.0-build-3/DemoApp.ipa",
-    "build": "3",
-    "bundle_id": "com.funjo.block.puzzle.arrow.escape.ios",
-    "devices": 12,
-    "sdk_version": "1.0.74",
-    "sha256": "42db0e66e82a5a02456def71a1643b8e6978b65051dd171b67889e54a166b890",
-    "tag": "block-puzzle-1.0-build-3",
-    "title": "FFSDKDome",
-    "version": "1.0"
-  },
   "block-puzzle/1.0/build-4": {
     "asset_url": "https://github.com/gjxxmy/ios_sdk_demo/releases/download/block-puzzle-1.0-build-4/DemoApp.ipa",
     "build": "4",
